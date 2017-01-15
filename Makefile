@@ -1,4 +1,3 @@
-
 #
 # Copyright 2017 Chul-Woong Yang (cwyang@gmail.com)
 # Licensed under the Apache License, Version 2.0;
