@@ -6,4 +6,4 @@ before_install:
 script:
  - make && make test
 after_success:
- - coveralls -v --exclude lib --exclude tests --exclude bencode.h
+ - bash <(curl -s https://codecov.io/bash)
