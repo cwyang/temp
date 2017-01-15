@@ -1,2 +1,2 @@
-# temp
-temporary test
+# bencode
+Bittorrent bencode reader and writer module
